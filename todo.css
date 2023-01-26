@@ -1,11 +1,11 @@
 :root {
-    --primary: #369459;
+    --primary: #e100ff;
     --secondary: #ff0000;
     --personal: var(--primary);
     --salt: var(--secondary);
     --light:rgb(0, 0, 0);
-    --grey: rgb(33, 168, 89);
-    --dark:#a5beac;
+    --grey: #e100ff;
+    --dark:#e100ff;
     --crimson:#eb201c;
   
     --shadow: 0 1px 3px rgba(237, 17, 17, 0.1);
